@@ -27,7 +27,7 @@ I'll be showcasing and documenting my projects here
 
 Language: SQL, Python 
 
-Database: Google BigQuery, PostgreSQL, MySQL, MS Server
+Database: Google BigQuery, PostgreSQL, MySQL, MS Server, Azure Data Studio
 
 Visualization: Tableau, Power BI, SISENSE
 
