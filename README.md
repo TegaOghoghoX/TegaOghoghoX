@@ -31,10 +31,12 @@ Database: Google BigQuery, PostgreSQL, MySQL, MS Server
 
 Visualization: Tableau, Power BI, SISENSE
 
-[![My Skills](https://skillicons.dev/icons?i=gcp,postgres,mysql,py,tableau)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gcp,postgres,mysql,py,azure,tableau)](https://skillicons.dev)
 
 ## 👋🏻 Connect with Me
 [Linkedin](www.linkedin.com/in/oghenetega-oghogho-454598167) 
+
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
 
 
 Thanks for Visiting!
