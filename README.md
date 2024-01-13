@@ -33,13 +33,8 @@ Visualization: Tableau, Power BI, SISENSE
 
 [![My Skills](https://skillicons.dev/icons?i=gcp,postgres,mysql,py,azure,tableau)](https://skillicons.dev)
 
-## 👋🏻 Connect with Me
-[Linkedin](www.linkedin.com/in/oghenetega-oghogho-454598167) 
+## 👋🏻 Thanks for Visiting!
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
-
-
-Thanks for Visiting!
 
 
 <!--
